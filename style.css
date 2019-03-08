@@ -1,0 +1,17 @@
+/*
+Theme Name: GS Admissions Theme 2016
+Author: Georgia Southern University Web Team
+Author URI: http://wordpress.georgiasouthern.edu
+Description: Theme for Georgia Southern Office of Admissions.
+Template: gsbootstrap
+Version: 1.0
+Last updated: 7/24/2016
+*/
+
+
+#content.landing.admissions.horizontal .navbar-toggle {
+    margin-top: 0;
+    position: absolute;
+    right: 0;
+    top: 46px;
+}
